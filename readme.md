@@ -2,7 +2,7 @@
 # RFX Document Analysis Report
 
 ## Introduction
-In this analysis, we started by finding all opportunities from the [BC Bid website](https://bcbid.gov.bc.ca/page.aspx/en/rfp/request_browse_public). We focused on categorizing and analyzing RFX (Request for X) documents such as **Request for Proposals (RFPs)**, **Request for Quotations (RFQs)**, **Invitation to Bid (ITB)**, **Invitation to Tender (Rft)**, and **Invitation to Offer (IO)**.
+In this analysis, we started by finding all opportunities from the [BC Bid website](https://bcbid.gov.bc.ca/page.aspx/en/rfp/request_browse_public). We focused on categorizing and analyzing RFX (Request for X) documents such as **Request for Proposals (RFPs)**, **Request for Quotations (RFQs)**, **Invitation to Bid (ITB)**, **Invitation to Tender (Rft)**, and **Invitation to Offer (IO)**. For more insight from the research process, the notebook file is added.
 
 ### Categories of Documents
 The following categories were used to filter and classify the documents:
